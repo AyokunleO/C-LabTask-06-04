@@ -14,7 +14,7 @@ namespace NovertisPharma
             Console.WriteLine($"{medicine.Print()}");
             Console.WriteLine($"{medicine.Print(5406)}");
             Console.WriteLine($"{medicine.Print(5405, "Chloroquin")}\n");
-            // medicine.IncreaseStock(50);
+            Console.WriteLine($"The Stock Quantity is{medicine.IncreaseStock(50)}");
 
 
             Console.WriteLine($"{sales.Display()}");
