@@ -8,11 +8,11 @@ namespace NovertisPharma
         private string manufName;
         private double unitPrice;
         private int stockQuantity;
-        private string manufDate;
-        private string expDate;
+        private Date manufDate;
+        private Date expDate;
         private int batchNum;
 
-        public Medicine(int medCode, string medName, string manufName, double unitPrice, int stockQuantity, string manufDate, string expDate, int batchNum)
+        public Medicine(int medCode, string medName, string manufName, double unitPrice, int stockQuantity, Date manufDate, Date expDate, int batchNum)
         {
          MedCode = medCode;
          MedName = medName;
@@ -30,13 +30,13 @@ namespace NovertisPharma
             private set { batchNum = value; }
         }
         
-        public string ExpDate
+        public Date ExpDate
         {
             get { return expDate; }
             private set { expDate = value; }
         }
         
-        public string ManufDate
+        public Date ManufDate
         {
             get { return manufDate; }
             private set { manufDate = value; }
