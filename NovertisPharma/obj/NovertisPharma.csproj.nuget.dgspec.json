@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodebitsAcademy\\LabTasks\\NovertisPharma\\NovertisPharma\\NovertisPharma.csproj": {}
+    "C:\\CodebitsAcademy\\LabTasks\\C# LabTask 06042021\\NovertisPharma\\NovertisPharma.csproj": {}
   },
   "projects": {
-    "C:\\CodebitsAcademy\\LabTasks\\NovertisPharma\\NovertisPharma\\NovertisPharma.csproj": {
+    "C:\\CodebitsAcademy\\LabTasks\\C# LabTask 06042021\\NovertisPharma\\NovertisPharma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodebitsAcademy\\LabTasks\\NovertisPharma\\NovertisPharma\\NovertisPharma.csproj",
+        "projectUniqueName": "C:\\CodebitsAcademy\\LabTasks\\C# LabTask 06042021\\NovertisPharma\\NovertisPharma.csproj",
         "projectName": "NovertisPharma",
-        "projectPath": "C:\\CodebitsAcademy\\LabTasks\\NovertisPharma\\NovertisPharma\\NovertisPharma.csproj",
+        "projectPath": "C:\\CodebitsAcademy\\LabTasks\\C# LabTask 06042021\\NovertisPharma\\NovertisPharma.csproj",
         "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
-        "outputPath": "C:\\CodebitsAcademy\\LabTasks\\NovertisPharma\\NovertisPharma\\obj\\",
+        "outputPath": "C:\\CodebitsAcademy\\LabTasks\\C# LabTask 06042021\\NovertisPharma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

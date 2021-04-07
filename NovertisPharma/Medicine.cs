@@ -94,11 +94,12 @@ namespace NovertisPharma
         }
 
 
-        // public int IncreaseStock()
+        // public int IncreaseStock(int num)
         // {
-        //     if(StockQuantity = 0)
+        //     if(StockQuantity == 0)
         //     {
-        //         return StockQuantity += 50;
+        //         StockQuantity = 50;
+        //         return StockQuantity;
         //     }
         // }
         

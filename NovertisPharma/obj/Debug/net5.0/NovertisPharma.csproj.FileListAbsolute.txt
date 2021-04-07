@@ -14,3 +14,19 @@ C:\CodebitsAcademy\LabTasks\NovertisPharma\NovertisPharma\obj\Debug\net5.0\Nover
 C:\CodebitsAcademy\LabTasks\NovertisPharma\NovertisPharma\obj\Debug\net5.0\ref\NovertisPharma.dll
 C:\CodebitsAcademy\LabTasks\NovertisPharma\NovertisPharma\obj\Debug\net5.0\NovertisPharma.pdb
 C:\CodebitsAcademy\LabTasks\NovertisPharma\NovertisPharma\obj\Debug\net5.0\NovertisPharma.genruntimeconfig.cache
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\bin\Debug\net5.0\NovertisPharma.exe
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\bin\Debug\net5.0\NovertisPharma.deps.json
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\bin\Debug\net5.0\NovertisPharma.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\bin\Debug\net5.0\NovertisPharma.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\bin\Debug\net5.0\NovertisPharma.dll
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\bin\Debug\net5.0\ref\NovertisPharma.dll
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\bin\Debug\net5.0\NovertisPharma.pdb
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\obj\Debug\net5.0\NovertisPharma.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\obj\Debug\net5.0\NovertisPharma.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\obj\Debug\net5.0\NovertisPharma.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\obj\Debug\net5.0\NovertisPharma.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\obj\Debug\net5.0\NovertisPharma.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\obj\Debug\net5.0\NovertisPharma.dll
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\obj\Debug\net5.0\ref\NovertisPharma.dll
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\obj\Debug\net5.0\NovertisPharma.pdb
+C:\CodebitsAcademy\LabTasks\C# LabTask 06042021\NovertisPharma\obj\Debug\net5.0\NovertisPharma.genruntimeconfig.cache
